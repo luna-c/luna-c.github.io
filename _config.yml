@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Luna - C
 tagline:             'My Coding Journey'
-description:         'My name is Chris Cahill. Here I trace my journey becoming a software developer. Find me on <a href="https://github.com/luna-c" target="_blank">github</a>./n Thanks to <a href="https://twitter.com/mdo" target="_blank">@mdo</a> for building this jekyll theme.'
+description:         'My name is Chris Cahill. This blog traces my journey of becoming a software developer. Find me on <a href="https://github.com/luna-c" target="_blank">Github</a>./n Thanks to <a href="https://twitter.com/mdo" target="_blank">@mdo</a> for building this jekyll theme.'
 url:                 http://luna-c.github.io
 baseurl:             ''
 paginate:            5
