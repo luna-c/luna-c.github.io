@@ -4,27 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey! I admire your curiosity. Welcome to my blog!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In a past life I was a [professional hockey player](http://www.eliteprospects.com/player.php?player=39038). Now, I am stepping into an equally dizzying environment: software programming. I am studying Python. My dives into programming often feel like [this](https://www.facebook.com/sgag.sg/videos/1178654215482898/).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I want to study at the [Recurse Center](https://www.recurse.com/). For all the other newbies out there, check out my books folder on dropbox for a pretty good repository of books to checkout that I've found on the interweb. 
 
 Thanks for reading!
+
+## Contact
+
+Have questions or suggestions? <a href="mailto:christopher.g.cahill@gmail.com?subject=I saw your blog!">Email me!</a>
