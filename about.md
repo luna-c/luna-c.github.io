@@ -7,7 +7,7 @@ title: About
   Hey! I admire your curiosity. Welcome to my blog!
 </p>
 
-In a past life I was a [hockey player](http://www.eliteprospects.com/player.php?player=39038). Now, I am stepping into this equally dizzying environment of software development. I am studying Python. My daily dives into programming often resemble [these](https://www.facebook.com/sgag.sg/videos/1178654215482898/).
+In a past life I was a [hockey player](http://www.eliteprospects.com/player.php?player=39038). Now, I am stepping into this equally dizzying environment, software development. I am studying Python. My daily dives into programming often resemble [these](https://www.facebook.com/sgag.sg/videos/1178654215482898/).
 
 I want to study at the [Recurse Center](https://www.recurse.com/) soon. 
 
