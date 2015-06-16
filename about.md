@@ -11,7 +11,9 @@ In a past life I was a [hockey player](http://www.eliteprospects.com/player.php?
 
 I want to study at the [Recurse Center](https://www.recurse.com/) soon. 
 
-For all other newbies/professional amateurs out there, I've created a good programming book repository in my dropbox. <a href="mailto:christopher.g.cahill@gmail.com?subject=Book Folder Interest">Email me</a> if you'd like the link.
+<p class="message">
+For all other newbies/professional amateurs out there, I've made a programming book repository in my dropbox. <a href="mailto:christopher.g.cahill@gmail.com?subject=Book Folder Interest">Email me</a> if you'd like the link.
+</p>
 
 Thanks for reading!
 
