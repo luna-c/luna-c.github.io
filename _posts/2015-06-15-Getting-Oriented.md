@@ -3,7 +3,7 @@ layout: post
 title: Getting Oriented 
 ---
 
-I fooled around today with the Tkinter GUI; I followed along with this [tutorial](http://zetcode.com/gui/tkinter/). All the different tools in Tkinter really showed me Python's batteries. After typing through some of the examples I went back to an old faithful of mine, the [Runstone Interactive Textbook](http://interactivepython.org/runestone/static/pip/Assignments/week3.html#problem-set) library. Nice to work through problems from scratch and craft solutions.
+I fooled around today with the Tkinter GUI; I followed along with this [tutorial](http://zetcode.com/gui/tkinter/). After typing through some of the examples I went back to an old faithful of mine, the [Runstone Interactive Textbook](http://interactivepython.org/runestone/static/pip/Assignments/week3.html#problem-set) library. Nice to work through problems from scratch and craft solutions.
 
 In other news, the concept of Object-oriented programming is finally taking root. I'm beginning to understand when certain chunks of code need to be objectified in order to perform other operations on "objects". Put another way, operations transform objects to make room for other operations that create more objects. And the process repeats. (Its nice practice putting into words what I'm learning for all code newbies reading this.)
 
