@@ -25,5 +25,5 @@ In Moby Dick, Melville confronted many big ideas such as fate and free-will as w
 
 This program gave me the amazing feeling of successfully programming a solution x1000. It showed me just how much enjoyment and understanding I can derive from the programming. 
 
-You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog isn't called **lunacy** for nothing!
+You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog is associated with **lunacy** for a reason!
 
