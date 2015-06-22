@@ -9,12 +9,12 @@ A few weeks ago now I wrote a small program that analyzed word occurences in the
     txt_split = original.split()
     whalecount = 0
     whale_forms = ['whale', 'whales', 'Whale', 'Whales']
-```python
+
     for word in txt_split:
       if word in whale_forms:
         whalecount += 1
     print("The whale count is %d" % (whalecount))
-```
+
 
 
 
