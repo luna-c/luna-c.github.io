@@ -19,9 +19,13 @@ This returned:
 
 >The whale count is **666**.
 
-**Yes, the [Number of the Beast](https://en.wikipedia.org/wiki/Number_of_the_Beast), tied to the whale, is hidden in the text!** Now if we're splitting hairs my analysis was oversimplified. The **666** result ignores all instances coupled with punctuation--i.e. "whales," or "whales;" or "whales.". While I acknowledge these holes in my program, I prefer to think of there being **666** *standalone* occurrences in the text. This way my finding can lend itself to all sorts of other creative or destructive narratives. Like using *the whale* separated from *the ocean* as a symbol for the separation of God from Man. So Melville’s magic continues. But I’ll stop my sorcery there.
+**Yes, the [Number of the Beast](https://en.wikipedia.org/wiki/Number_of_the_Beast), tied to the whale, is hidden in the text!** If we're splitting hairs my analysis was oversimplified. The **666** result ignores all instances split with punctuation attached--i.e. *whales,* or *whales.* or *whales;*. Acknowledging the gaps in my program, I still love this whale count. 
 
-Its happenstances like this that really invite me on this programming journey. 
+In Moby Dick, Melville confronted many big ideas such as fate and free will as well as the relationship between God and Man. So its funny that I found the beast, another major mythological icon, lurking within the whale. Connecting these two symbols reveals yet another allegory extracted from Melville's text, one I imagine few people know about.
 
-You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). Thanks for reading!
+This program gave me the amazing feeling of successfully programming a solution x1000. It showed me just how much enjoyment and understanding I can derive from the programming. 
+
+#Full Program 
+
+You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog isn't called **lunacy** for nothing!
 
