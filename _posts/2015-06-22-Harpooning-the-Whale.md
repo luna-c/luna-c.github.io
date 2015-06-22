@@ -19,11 +19,9 @@ This returned:
 
 >The whale count is **666**.
 
-**Yes, the [Number of the Beast](https://en.wikipedia.org/wiki/Number_of_the_Beast), tied to the whale, is hidden in the text!** If we're splitting hairs my analysis was oversimplified. The **666** result ignores all instances split with punctuation attached--i.e. *whales,* or *whales.* or *whales;*. Acknowledging the gaps in my program, I still love this whale count. 
+**Yes, the [Number of the Beast](https://en.wikipedia.org/wiki/Number_of_the_Beast), tied to the whale, is hidden in the text!** If we're splitting hairs my analysis was oversimplified. The **666** result ignores all instances split with punctuation attached--i.e. *whales,* or *whales.* or *whales;*. Acknowledging the gaps in my program, I still love this whale count because I found a way to connect the Beast, another major mythological icon, to the whale and create yet another allegory concealed in Melville's text. All with the help of Python.
 
-Its funny finding the beast, another mythological icon, lurking within the whale. It is yet another allegory (of my own creation) concealed in Melville's text.
-
-This program gave me the amazing feeling of successfully programming a solution x1000. It showed me just how much enjoyment and understanding I can derive from the programming. 
+This program gave me the amazing feeling of successfully programming a solution x1000. It showed me just how much enjoyment and understanding I can potentially derive from programming. 
 
 You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog is associated with **lunacy** for a reason!
 
