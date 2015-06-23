@@ -21,7 +21,7 @@ This returned:
 
 The [Number of the Beast](https://en.wikipedia.org/wiki/Number_of_the_Beast) equals the word occurrences of whale(s) in Moby Dick. **Yes, the Number of the Beast directly linked to the whale is hidden in the text!** 
 
-There are obvious gaps in my program. For example, the **666** count ignores all instances split with punctuation attached--i.e. 'whales,' or 'whales.' or 'whales;'. And all the occurences might not be referencing THE whale(Moby Dick). So I am overlooking many shortcomings while employing my dramatic simplification. But I love this whale count because I found a connection between the Beast, a major mythological icon, and the whale. I created--with the help of Python--yet another allegory concealed in Melville's text.
+There are obvious gaps in my program. For example, the **666** count ignores all instances split with punctuation attached--i.e. 'whales,' or 'whales.' or 'whales;'. And all the occurences might not be referencing THE whale(Moby Dick). So I am overlooking many shortcomings while employing dramatic simplification. But I love this whale count because I found a connection between the Beast, a major mythological icon, and the whale. I created--with the help of Python--yet another allegory concealed in Melville's text.
 
 So I got that amazing feeling of successfully programming a solution x1000. Creating it expanded the levels of enjoyment and understanding I derive from programming. I fashion *meaning* in my programs and in my narratives.
 
