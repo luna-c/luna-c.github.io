@@ -25,5 +25,5 @@ There are obvious gaps in my program. For example, the **666** count ignores all
 
 So I got that amazing feeling of successfully programming a solution x1000. Creating this program expanded the levels of enjoyment and understanding I derive from programming.
 
-You can find my full program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog is associated with **lunacy** for a reason!
+You can find my complete program [here](https://github.com/luna-c/moby-dick-word-analysis). This blog is associated with **lunacy** for a reason!
 
