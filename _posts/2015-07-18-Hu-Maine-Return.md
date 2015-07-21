@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hu-Maine Human Returns
+title: HuMaine Return
 ---
 
 Been off in Maine studying python by night and organic farming by day. Spent some time at the [Morgan Bay Zendo](http://www.morganbayzendo.org/) too.
