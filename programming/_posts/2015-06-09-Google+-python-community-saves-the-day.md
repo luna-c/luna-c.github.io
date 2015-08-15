@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google+ Python Community saves the day!
+category: programming
 ---
 
 So I had a great Boston Python Meetup on Monday. Tom helped me get things straight in the terminal. He really helped me understand the layout and interconnection of folders. He showed me null, which is like a trash bin on steroids. He also showed me lots of fancy keyboard tricks, very few of which I actually remember but great to witness the power nonetheless. Things like…
