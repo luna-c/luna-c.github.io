@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Getting Oriented 
+category: programming
 ---
 
 I fooled around today with the Tkinter GUI; I followed along with this [tutorial](http://zetcode.com/gui/tkinter/). After typing through some of the examples I went back to an old faithful of mine, the [Runstone Interactive Textbook](http://interactivepython.org/runestone/static/pip/Assignments/week3.html#problem-set) library. Nice to work through problems from scratch and craft solutions.
