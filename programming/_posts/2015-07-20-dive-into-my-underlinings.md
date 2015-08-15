@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dive Into My Underlinings
+category: programming
 ---
 
 Here are my underlinings from [Dive Into Python](http://www.amazon.com/Dive-Into-Python-Mark-Pilgrim/dp/1590593561)...
