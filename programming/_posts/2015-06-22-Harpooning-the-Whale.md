@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Harpooning the Whale
+category: programming
 ---
 
 A few weeks ago I wrote a small python program that analyzed word occurences in the text of [Moby Dick](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm). I love Melville's book and this project was a fun way to do some text analysis on it. What follows is part of my code where I analyzed occurences of the word *whale(s)* in the text:
