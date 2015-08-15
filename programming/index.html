@@ -1,21 +1,18 @@
 ---
 layout: default
 title: Home
+category: programming
 ---
 
-<div class="posts">
+<div class="programming">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
+    {% if post.categories contains 'programming' %}
+      <div class="programming">
+        <h1 class="programming-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <span class="programming-date">{{ post.date | date_to_string }}</span>
+        {{ post.content }}
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
 
