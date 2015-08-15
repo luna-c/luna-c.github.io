@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pycon Videos and Gui
+category: programming
 ---
 
 I was listening to the [Talk Python To Me](http://www.talkpythontome.com/episodes/show/4/enterprise-python-and-large-scale-projects) podcast and came across Allison Kaptur's Pycon Talk [Bytes in the Machine](https://www.youtube.com/watch?v=HVUTjQzESeo). I enjoyed her talk. Like most Python talks I've watched in the past, speakers do an incredible job of simplifying techniques while leaving out a lot of the complexities that I drown in. I also watched Guido Van Rossum's keynote and that was fun. 
