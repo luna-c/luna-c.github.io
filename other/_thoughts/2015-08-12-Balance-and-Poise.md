@@ -1,6 +1,7 @@
 ---
 layouth: post
 title: Balance and Poise
+category: thoughts
 ---
 
 I liked the following passage from [The Secret Doctrine of the Rosicrucians](http://www.sacred-texts.com/sro/sdr/sdr14.htm)...
