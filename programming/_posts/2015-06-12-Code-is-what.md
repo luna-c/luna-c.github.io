@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code is what?
+category: programming
 ---
 
 I took the time today to read the 38,000 words in Paul Ford's [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/). Here are some of the terminology highlights I liked: 
