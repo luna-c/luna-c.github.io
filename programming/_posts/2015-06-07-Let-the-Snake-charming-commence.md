@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let the Snake charming commence!
+category: programming
 ---
 
 I’ve been studying the Python Programming Language for a couple months now. Yesterday I listened to [Episode 2](http://www.codenewbie.org/podcast/ep-2-coding-like-a-boss-w-brian-douglas) with Brian Douglas on the Code Newbie Podcast. His talk gave me the push I needed to chronicle my journey learning Python. Let the snake charming officially commence...
