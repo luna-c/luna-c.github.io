@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stop Being So Bashful
+category: programming
 ---
 
 Today I learned that predefined arguments in functions are then optional to define. I exposed myself to [hashing](http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html), hash functions and collisions,`bubblesorts` and the *divide and conquer* strategy in `binary search`.
