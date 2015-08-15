@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing luna©y!
+category: programming
 ---
 
 *Hello* *World*. I created **this** blog today. I forked [Lanyon](https://github.com/poole/lanyon) to use as my site template. I also downloaded [Jekyll](http://jekyllrb.com). I want to figure out how to add site content from the command line. 
