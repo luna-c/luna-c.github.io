@@ -10,11 +10,8 @@ I fooled around with a exercises in [Programming Python](http://kysmykseka.net/k
 
 
 `>>> os.system('type helloshell.py')` 
-
 `# a Python program`
-
 `print('The Meaning of Life')`
-
 `0` 
 
 I am fascinated by this returning zero (0). To summarize a perfectly knit together program with zero (0) implies nothing and everything. I love that.
