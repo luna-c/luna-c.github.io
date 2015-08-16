@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pycon Videos and Gui
+title: Zero Predicate
 category: programming
 ---
 
