@@ -8,15 +8,14 @@ I was listening to the [Talk Python To Me](http://www.talkpythontome.com/episode
 
 I fooled around with a exercises in [Programming Python](http://kysmykseka.net/koti/wizardry/Programming/Python/Programming%20Python,%204th%20Edition%20(2010).pdf). On one of them, I was using the os.system module in the interpreter to analyze program type. The code was as follows:
 
-```
->>> os.system('type helloshell.py') 
 
-# a Python program
+`>>> os.system('type helloshell.py')` 
 
-print('The Meaning of Life')
+`# a Python program`
 
-0 
-```
+`print('The Meaning of Life')`
+
+`0` 
 
 I am fascinated by this returning zero (0). To summarize a perfectly knit together program with zero (0) implies nothing and everything. I love that.
 
